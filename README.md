@@ -35,7 +35,7 @@ Lightweight Android app that's designed to provide a fast and simple reading exp
 
 Latest APK release:
 
-[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/raw/refs/heads/main/socialistnews1.0.0.apk)
+[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/releases/download/v1.0.0/socialistnews1.0.0.apk)
 
 ---
 
