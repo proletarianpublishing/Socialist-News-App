@@ -7,7 +7,7 @@ Lightweight Android app that's designed to provide a fast and simple reading exp
 
 ## Features
 
-- Separate UK, US, and World news tabs
+- Separate Canada, UK, US, and World news tabs
 - News feed aggregation
 - Lightweight and fast interface
 - Dark mode support
@@ -35,7 +35,7 @@ Lightweight Android app that's designed to provide a fast and simple reading exp
 
 Latest APK release:
 
-[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/releases/download/v1.1.0/socialistnews1.1.0.apk)
+[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/releases/download/v1.2.0/socialistnews1.2.0.apk))
 
 ---
 
