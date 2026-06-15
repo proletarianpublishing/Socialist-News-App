@@ -69,6 +69,7 @@ This application:
 ## Known Issues
 
 - Tablet layouts still being improved
+- Some story dates displayed incorrectly
 
 ---
 
