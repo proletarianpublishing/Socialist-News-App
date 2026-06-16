@@ -11,9 +11,7 @@ Lightweight Android app that's designed to provide a fast and simple reading exp
 - News feed aggregation
 - Lightweight and fast interface
 - Dark mode support
-- Static publication thumbnails
-- Simple scrolling feed layout
-- Minimal permissions
+- Minimal permissions needed
 - No account required
 - No analytics or tracking
 
