@@ -33,7 +33,7 @@ Lightweight Android app that's designed to provide a fast and simple reading exp
 
 Latest APK release:
 
-[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/releases/download/v1.2.1/socialistnews1.2.1.apk)
+[Download Latest APK](https://github.com/proletarianpublishing/Socialist-News-App/releases/download/v1.3.0/socialistnews1.3.0.apk)
 
 ---
 
@@ -67,7 +67,6 @@ This application:
 ## Known Issues
 
 - Tablet layouts still being improved
-- Some story dates displayed incorrectly
 
 ---
 
